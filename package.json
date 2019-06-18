@@ -1,0 +1,16 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "telegram bot deployment test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "now-build": "node index.js"
+  },
+  "author": "Tomas Mali",
+  "license": "ISC",
+  "dependencies": {
+    "now": "^15.5.0",
+    "telegram-node-bot": "^4.0.5"
+  }
+}
